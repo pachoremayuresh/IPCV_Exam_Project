@@ -13,8 +13,9 @@ git clone https://github.com/pachoremayuresh/IPCV_Exam_Project.git
 
 2. Install the required Libraries
 
+```bash
 pip install -r requirements.txt
-
+```
 
 ### Key Notes
 Please make sure you have any of available following suported versions.
