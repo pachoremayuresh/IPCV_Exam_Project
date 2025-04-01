@@ -30,4 +30,4 @@ Please make sure you have any of available following suported versions.
 ```bash
     pip install -U "pip>= 20.3"
 ```
-For any details or doubts please dont hasitate to contact pachoremayuresh@gmail.com
+For any details or doubts please contact pachoremayuresh@gmail.com
