@@ -31,4 +31,8 @@ Please make sure you have any of available following suported versions.
 ```bash
     pip install -U "pip>= 20.3"
 ```
+
+### The Result Images and Report
+***please double click on Tire_Defect_Detection.ipynb***
+
 For any details or doubts please contact pachoremayuresh@gmail.com
